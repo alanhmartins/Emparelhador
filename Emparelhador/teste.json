@@ -1,0 +1,249 @@
+[
+  {
+    "id": 29,
+    "jogador": {
+      "id": 1,
+      "nome": "Alan Martins",
+      "vitorias": 9
+    },
+    "jogadorid": 1,
+    "vitoria": true,
+    "pontos": 5,
+    "posicao": 1,
+    "mesa": null,
+    "mesaid": 9,
+    "nby": false
+  },
+  {
+    "id": 30,
+    "jogador": {
+      "id": 2,
+      "nome": "Robert",
+      "vitorias": 5
+    },
+    "jogadorid": 2,
+    "vitoria": false,
+    "pontos": 3,
+    "posicao": 2,
+    "mesa": null,
+    "mesaid": 9,
+    "nby": false
+  },
+  {
+    "id": 31,
+    "jogador": {
+      "id": 5,
+      "nome": "Daniel Oliveira",
+      "vitorias": 3
+    },
+    "jogadorid": 5,
+    "vitoria": false,
+    "pontos": 2,
+    "posicao": 3,
+    "mesa": null,
+    "mesaid": 9,
+    "nby": false
+  },
+  {
+    "id": 32,
+    "jogador": {
+      "id": 4,
+      "nome": "Simon Reis",
+      "vitorias": 3
+    },
+    "jogadorid": 4,
+    "vitoria": false,
+    "pontos": 1,
+    "posicao": 4,
+    "mesa": null,
+    "mesaid": 9,
+    "nby": false
+  }
+],
+  [
+    {
+      "id": 33,
+      "jogador": {
+        "id": 3,
+        "nome": "Victor Oliveira",
+        "vitorias": 3
+      },
+      "jogadorid": 3,
+      "vitoria": false,
+      "pontos": 2,
+      "posicao": 2,
+      "mesa": null,
+      "mesaid": 10,
+      "nby": false
+    },
+    {
+      "id": 34,
+      "jogador": {
+        "id": 6,
+        "nome": "Luis Pedras",
+        "vitorias": 3
+      },
+      "jogadorid": 6,
+      "vitoria": false,
+      "pontos": 2,
+      "posicao": 2,
+      "mesa": null,
+      "mesaid": 10,
+      "nby": false
+    },
+    {
+      "id": 35,
+      "jogador": {
+        "id": 7,
+        "nome": "Thiago",
+        "vitorias": 2
+      },
+      "jogadorid": 7,
+      "vitoria": false,
+      "pontos": 2,
+      "posicao": 2,
+      "mesa": null,
+      "mesaid": 10,
+      "nby": false
+    },
+    {
+      "id": 36,
+      "jogador": {
+        "id": 14,
+        "nome": "Bruno Lanza",
+        "vitorias": 2
+      },
+      "jogadorid": 14,
+      "vitoria": true,
+      "pontos": 5,
+      "posicao": 1,
+      "mesa": null,
+      "mesaid": 10,
+      "nby": false
+    }
+  ],
+  [
+    {
+      "id": 37,
+      "jogador": {
+        "id": 8,
+        "nome": "Filipe",
+        "vitorias": 2
+      },
+      "jogadorid": 8,
+      "vitoria": false,
+      "pontos": 2,
+      "posicao": 1,
+      "mesa": null,
+      "mesaid": 11,
+      "nby": false
+    },
+    {
+      "id": 38,
+      "jogador": {
+        "id": 15,
+        "nome": "Ricardo Lima",
+        "vitorias": 2
+      },
+      "jogadorid": 15,
+      "vitoria": false,
+      "pontos": 2,
+      "posicao": 1,
+      "mesa": null,
+      "mesaid": 11,
+      "nby": false
+    },
+    {
+      "id": 39,
+      "jogador": {
+        "id": 9,
+        "nome": "Alan Guilherme",
+        "vitorias": 1
+      },
+      "jogadorid": 9,
+      "vitoria": false,
+      "pontos": 2,
+      "posicao": 1,
+      "mesa": null,
+      "mesaid": 11,
+      "nby": false
+    },
+    {
+      "id": 40,
+      "jogador": {
+        "id": 13,
+        "nome": "Iggor Mattos",
+        "vitorias": 1
+      },
+      "jogadorid": 13,
+      "vitoria": false,
+      "pontos": 2,
+      "posicao": 1,
+      "mesa": null,
+      "mesaid": 11,
+      "nby": false
+    }
+  ],
+  [
+    {
+      "id": 41,
+      "jogador": {
+        "id": 10,
+        "nome": "Renan Abreu",
+        "vitorias": 1
+      },
+      "jogadorid": 10,
+      "vitoria": false,
+      "pontos": 1,
+      "posicao": 4,
+      "mesa": null,
+      "mesaid": 12,
+      "nby": false
+    },
+    {
+      "id": 42,
+      "jogador": {
+        "id": 12,
+        "nome": "Walisson André",
+        "vitorias": 1
+      },
+      "jogadorid": 12,
+      "vitoria": true,
+      "pontos": 5,
+      "posicao": 1,
+      "mesa": null,
+      "mesaid": 12,
+      "nby": false
+    },
+    {
+      "id": 43,
+      "jogador": {
+        "id": 11,
+        "nome": "Caio",
+        "vitorias": 1
+      },
+      "jogadorid": 11,
+      "vitoria": false,
+      "pontos": 3,
+      "posicao": 2,
+      "mesa": null,
+      "mesaid": 12,
+      "nby": false
+    },
+    {
+      "id": 44,
+      "jogador": {
+        "id": 16,
+        "nome": "Phyerre Luiz",
+        "vitorias": 0
+      },
+      "jogadorid": 16,
+      "vitoria": false,
+      "pontos": 2,
+      "posicao": 3,
+      "mesa": null,
+      "mesaid": 12,
+      "nby": false
+    }
+  ]
+]
